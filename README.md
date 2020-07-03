@@ -1,1 +1,1 @@
-# prueba
+# domain-name-generator
